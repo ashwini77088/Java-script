@@ -5,11 +5,3 @@ if(a%7==0){
 else{
     console.log('Not Divisible')
 }
-//
-a=5
-if(a%7==0){
-    console.log('Divisible')
-}
-else{
-    console.log('Not Divisible')
-}
