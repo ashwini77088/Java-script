@@ -5,3 +5,4 @@ if(a%7==0){
 else{
     console.log('Not Divisible')
 }
+
