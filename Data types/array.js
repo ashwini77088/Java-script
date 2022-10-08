@@ -6,3 +6,7 @@ for (var i=0;i<b.length-1;i++){
 console.log(b[i])
 
 }
+
+
+
+//

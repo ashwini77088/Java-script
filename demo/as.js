@@ -24,4 +24,11 @@ var f=20
 console.log(e+f);
 
 
+//while loop
+var number=[101,102,103,104];
+var i=0;
+while(i<=number.legnth-1){
+    console.log(number[i]);
+    i++;
+}
 
